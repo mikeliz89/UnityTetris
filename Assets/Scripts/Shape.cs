@@ -135,7 +135,7 @@ public class Shape : MonoBehaviour
         }
 
         //miikan oma
-        if(Input.GetKeyDown("space"))
+        /*if(Input.GetKeyDown("space"))
         {
             Debug.Log("SPACE pressed down!");
 
@@ -149,6 +149,7 @@ public class Shape : MonoBehaviour
             //transform.position += new Vector3(0, 2, 0);
             //lastMoveDown = Time.time;
         }
+		*/
 
     }
 
