@@ -1,0 +1,4 @@
+x vasen -3.0
+x oikea 4.0
+
+y ala -8.0
